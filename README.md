@@ -4,16 +4,16 @@ This repository contains a web development project focused on creating a landing
 
 ## Key Features:
 
-- Responsive design ensuring compatibility across various devices and screen sizes
-- Engaging visuals and layout to capture user attention
-- Clear and concise messaging to communicate the purpose and value proposition of the website or application
-- Call-to-action elements to prompt user interaction, such as signing up, exploring further content, or making a purchase
+- Responsive design ensuring compatibility across various devices and screen sizes .
+- Engaging visuals and layout to capture user attention .
+- Clear and concise messaging to communicate the purpose and value proposition of the website or application .
+- Call-to-action elements to prompt user interaction, such as signing up, exploring further content, or making a purchase .
 
 ## Technologies Used:
 
-- HTML: For structuring the content of the landing page
-- CSS: For styling and layout design, including responsiveness
-- JavaScript: For interactive elements and dynamic behavior
+- HTML: For structuring the content of the landing page .
+- CSS: For styling and layout design, including responsiveness .
+- JavaScript: For interactive elements and dynamic behavior .
 
 ## Project Structure:
 
